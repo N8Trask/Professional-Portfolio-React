@@ -102,53 +102,6 @@ function Portfolio() {
           </div>
         </div>
 
-        <div class="col">
-          <div class="card">
-            <img src={Soon} alt="Coming Soon" class="card-img-top" />
-            <div class="card-body">
-              <a
-                href="https://github.com/N8Trask"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>GitHub</button>
-              </a>
-              <a
-                href="https://github.com/N8Trask"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>Website</button>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col">
-          <div class="card">
-            <img
-              src={Soon}
-              alt="Coming Soon"
-              class="card-img-top"
-            />
-            <div class="card-body">
-              <a
-                href="https://github.com/N8Trask"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>GitHub</button>
-              </a>
-              <a
-                href="https://github.com/N8Trask"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>Website</button>
-              </a>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
