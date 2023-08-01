@@ -1,0 +1,58 @@
+Nate Trask
+
+Hibbing, MN 55746 218.969.5512 trask.nate@gmail.com
+https://www.linkedin.com/in/nate-trask-9298b2281/
+
+SUMMARY
+
+Highly motivated and detail-oriented entry-level software developer with a strong foundation in computer
+science and programming principles. Equipped with solid problem-solving skills and a passion for technology, I
+am eager to contribute to the development of innovative software solutions. Proficient in multiple programming
+languages and frameworks, I possess a solid understanding of the software development lifecycle and agile
+methodologies. Committed to continuous learning and professional growth, I am adaptable, collaborative, and
+thrive in fast-paced, dynamic environments. With a strong work ethic and excellent communication skills, I am
+ready to contribute my technical expertise to help organizations achieve their software development goals.
+
+
+SKILLS & ABILITIES
+
+• HTML, CSS, and JavaScript are fundamental web development languages that I am proficient in. I
+have experience using Bootstrap and jQuery to create responsive and interactive web pages.
+Additionally, I am knowledgeable in working with databases, including MySQL and MongoDB. On the
+server-side, I am skilled in utilizing Node.js and Express.js to build robust and scalable web
+applications. Furthermore, I have used Handlebars for templating and React for building dynamic user
+interfaces.
+
+• Database Management: Experience with database systems such as MySQL or MongoDB, including the
+ability to write SQL queries.
+
+• Strong analytical and problem-solving skills, with the ability to debug and troubleshoot software issues
+effectively.
+
+• A commitment to ongoing learning and staying updated with the latest technologies and trends in
+software development.
+
+
+EXPERIENCE
+
+L&M RADIATOR – HIBBING, MN Team Lead Welder/Fabricator - July 2017 to Present
+• MIG and TIG production welding primarily on various mild and stainless steels, brass and aluminum
+material. Keeping customer specified tolerances down to 0.02 of an inch.
+
+• Managed a team of welders, assigning tasks and ensuring seamless workflow coordination, resulting in
+improved productivity and on-time project delivery.
+
+• Trained and mentored newly hired welders/employees, ensuring adherence to strict quality and safety
+standards.
+
+• Conducted comprehensive training programs on welding techniques, equipment operation, and safety
+protocols, resulting in a highly skilled and knowledgeable workforce.
+
+• Collaborated with management and engineering teams to identify areas for process improvement and
+implemented corrective measures to enhance productivity and quality.
+
+
+EDUCATION
+
+University of Minnesota – Full Stack Software Development Certificate / August 2023
+Hibbing High School – High School Diploma / June 2011
