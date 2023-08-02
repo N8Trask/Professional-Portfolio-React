@@ -8,7 +8,6 @@ function Resume() {
       </div>
       <div className="bottom-spacing">
         <a href={require("../assets/files/resume.txt")} download> 
-         {/* https://docs.google.com/document/d/1UvpE3qg0t6NvEfabwSaY_R0H-y8WE32sl-ftIo9uYjI/edit?usp=sharing */}
           <h4>Download Resume</h4>
         </a>
       </div>

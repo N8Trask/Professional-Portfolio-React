@@ -1,8 +1,6 @@
 import React from "react";
 
 import Soon from "../assets/images/comingSoon.jpg";
-// import PlaceHolderTwo from "../assets/images/placeholder.jpg";
-// import PlaceHolderThree from "../assets/images/placeholder.jpg";
 import HTS from "../assets/images/project1.png";
 import Ninja from "../assets/images/project2.png";
 import Weather from "../assets/images/weatherDashboard.png";
