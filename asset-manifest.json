@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Professional-Portfolio-React/static/css/main.e8ec4e6a.css",
-    "main.js": "/Professional-Portfolio-React/static/js/main.ffa88b88.js",
+    "main.css": "/Professional-Portfolio-React/static/css/main.ff01c910.css",
+    "main.js": "/Professional-Portfolio-React/static/js/main.53947a4d.js",
     "static/js/787.a2cb61a6.chunk.js": "/Professional-Portfolio-React/static/js/787.a2cb61a6.chunk.js",
+    "static/media/mod-2-screenshot.png": "/Professional-Portfolio-React/static/media/mod-2-screenshot.9ae9a2bfef1523a5b66b.png",
     "static/media/project2.png": "/Professional-Portfolio-React/static/media/project2.fc62d9915eec4c6ae059.png",
     "static/media/profile_pic.png": "/Professional-Portfolio-React/static/media/profile_pic.9560c8ca9a27f5d27d0c.png",
     "static/media/project1.png": "/Professional-Portfolio-React/static/media/project1.774bd176a8204d6de270.png",
     "static/media/matrix-code.gif": "/Professional-Portfolio-React/static/media/matrix-code.012ede4c04990bef9596.gif",
+    "static/media/PassGen.png": "/Professional-Portfolio-React/static/media/PassGen.3784401e53c22960a8b5.png",
     "static/media/weatherDashboard.png": "/Professional-Portfolio-React/static/media/weatherDashboard.b933871249e25f030d28.png",
     "static/media/background.jpg": "/Professional-Portfolio-React/static/media/background.d91ba978b7f5b521c53c.jpg",
     "static/media/resume.txt": "/Professional-Portfolio-React/static/media/resume.3da5ebd25834de2833e9.txt",
     "index.html": "/Professional-Portfolio-React/index.html",
-    "main.e8ec4e6a.css.map": "/Professional-Portfolio-React/static/css/main.e8ec4e6a.css.map",
-    "main.ffa88b88.js.map": "/Professional-Portfolio-React/static/js/main.ffa88b88.js.map",
+    "main.ff01c910.css.map": "/Professional-Portfolio-React/static/css/main.ff01c910.css.map",
+    "main.53947a4d.js.map": "/Professional-Portfolio-React/static/js/main.53947a4d.js.map",
     "787.a2cb61a6.chunk.js.map": "/Professional-Portfolio-React/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8ec4e6a.css",
-    "static/js/main.ffa88b88.js"
+    "static/css/main.ff01c910.css",
+    "static/js/main.53947a4d.js"
   ]
 }
