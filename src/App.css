@@ -312,6 +312,11 @@ button {
   border-radius: 45%;
 }
 
+.about .portrait img {
+  width: 15em;
+  border-radius: 45%;
+}
+
 .about {
   text-align: center;
   margin: 10px 20px;

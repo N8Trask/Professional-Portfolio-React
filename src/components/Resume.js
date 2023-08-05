@@ -3,14 +3,19 @@ import React from "react";
 function Resume() {
   return (
     <section>
+      {/* Resume Title */}
       <div className="center">
         <h1 id="about">My Resume</h1>
       </div>
+
+      {/* Download Resume Link */}
       <div className="bottom-spacing">
-        <a href={require("../assets/files/resume.txt")} download> 
+        <a href={require("../assets/files/resume.txt")} download>
           <h4>Download Resume</h4>
         </a>
       </div>
+
+      {/* Front-End Proficiencies */}
       <div>
         <h5>Front-End Proficiencies</h5>
         <ol>
@@ -23,7 +28,9 @@ function Resume() {
           <li>version control/Git</li>
           <li>responsive design</li>
         </ol>
-        <br></br>
+        <br />
+
+        {/* Back-End Proficiencies */}
         <h5>Back-End Proficiencies</h5>
         <ol>
           <li>APIs</li>
@@ -33,7 +40,9 @@ function Resume() {
           <li>REST</li>
           <li>Progressive Web Applications (PWA)</li>
         </ol>
-        <br></br>
+        <br />
+
+        {/* Dev Tool Proficiencies */}
         <h5>Dev Tool Proficiencies</h5>
         <ol>
           <li>Git</li>
@@ -41,7 +50,9 @@ function Resume() {
           <li>Jest</li>
           <li>Webpack</li>
         </ol>
-        <br></br>
+        <br />
+
+        {/* Database Proficiencies */}
         <h5>Database Proficiencies</h5>
         <ol>
           <li>MySQL</li>
